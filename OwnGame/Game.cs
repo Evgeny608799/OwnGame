@@ -45,7 +45,7 @@ namespace OwnGame
                     teamsGroupBoxes[i] = new FlowLayoutPanel();
 
                     teamsGroupBoxes[i].Width = 200;
-                    teamsGroupBoxes[i].Height = 177;
+                    teamsGroupBoxes[i].Height = 178;
                 }
             }
 
